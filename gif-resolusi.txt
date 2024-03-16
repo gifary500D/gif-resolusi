@@ -1,5 +1,6 @@
-gif-resolusi
+ gif-resolusi
 -belajar web
 -membuat platform
 -vlogs
+-belajar brench
 
